@@ -14,7 +14,6 @@ public class ping {
 	}
 	
 	public static void vec(){
-		
 		String b[]={"z","a","m","b","r"};
 		String a[]={"2","3","1","5","9","3"};
 		int size=5;
